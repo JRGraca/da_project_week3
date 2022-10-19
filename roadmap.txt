@@ -1,0 +1,3 @@
+Indicação de percurso com hora (Google Maps)
+Recomendação de música conforme o tipo de estrada (Spotify)
+No caso de cruzar hora de almoço/hora de jantar, recomendar restaurante (web scraping)
